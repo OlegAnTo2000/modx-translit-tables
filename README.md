@@ -20,7 +20,7 @@ cd core/components/translit/model/modx/translit/tables/
 
 download table (change <TABLENAME> to real name)
 ```
-wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/<TABLENAME>.php
+wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/<TABLENAME>.php
 ```
 
 windows
@@ -30,10 +30,10 @@ iwr https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/hea
 
 get all
 ```
-wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/czech.php
-wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/kazakh.php
-wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/polish.php
-wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/ukrainian.php
+wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/czech.php
+wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/kazakh.php
+wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/polish.php
+wget https://raw.githubusercontent.com/OlegAnTo2000/modx-translit-tables/refs/heads/main/ukrainian.php
 ```
 
 ### Set tablename in MODx system settings (or context settings)
